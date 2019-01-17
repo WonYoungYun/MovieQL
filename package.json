@@ -1,0 +1,19 @@
+{
+  "name": "movie_ql",
+  "version": "1.0.0",
+  "description": "Movie API with GraphQl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WonYoungYun/MovieQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WonYoungYun/MovieQL/issues"
+  },
+  "homepage": "https://github.com/WonYoungYun/MovieQL#readme"
+}
